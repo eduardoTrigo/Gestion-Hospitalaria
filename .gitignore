@@ -1,0 +1,18 @@
+# Archivos compilados de Maven
+target/
+
+# Archivos Java compilados
+*.class
+
+# Archivos temporales
+*.log
+
+# Configuraciones privadas de NetBeans
+nbproject/private/
+
+# Configuraciones de IntelliJ
+.idea/
+
+# Archivos del sistema Windows
+Thumbs.db
+Desktop.ini
